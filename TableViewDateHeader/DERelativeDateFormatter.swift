@@ -1,6 +1,6 @@
 //
-//  DEDateContextFormatter.swift
-//  JobTrackr
+//  DERelativeDateFormatter.swift
+//  TableViewDateHeader
 //
 //  Created by Daniel Eisterhold on 5/13/16.
 //  Copyright © 2016 Daniel Eisterhold. All rights reserved.
